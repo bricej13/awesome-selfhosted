@@ -247,12 +247,14 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Adagios](http://adagios.org/) - Web based Nagios interface for configuration, as well as monitoring (as a replacement to the standard interface), and a REST interface ([Demo](http://demo.adagios.org/), [SourceCode](https://github.com/opinkerfi/adagios), [Documentation](https://github.com/opinkerfi/adagios/wiki) - `GPL-v3.0` `Python`
   * [adminer](http://www.adminer.org/) -  Database management in a single PHP file ([Source code](https://github.com/vrana/adminer))
   * [Icinga / Icinga 2](https://www.icinga.org/) - Nagios fork that has since lapped nagios several times. Comes with the possibility of clustered monitoring - ([SourceCode](https://github.com/Icinga)) - `GPLv2`
+  * [LibreNNS](http://www.librenms.org/) - Community-based GPL-licensed network monitoring system - `GPL-v3.0`
   * [linux-dash](https://github.com/afaqurk/linux-dash) - A drop-in, low-overhead monitoring web dashboard for a linux machine ([Demo](http://afaq.dreamhosters.com/linux-dash/))
   * [Nagios](https://www.nagios.org/) - Industry standard monitoring software, which has a lot of plugins and customisation posibilities. - `GPL`
   * [phpSysInfo](https://phpsysinfo.github.io/phpsysinfo/) - a customizable PHP script that displays information about your system nicely ([Demo](http://phpsysinfo.sourceforge.net/phpsysinfo/index.php?disp=bootstrap))
   * [psdash](https://github.com/Jahaja/psdash) - A linux system information web dashboard using psutils and flask
   * [pyDash](https://github.com/k3oni/pydash) - Small web-based monitoring dashboard for linux ([Demo](http://pydash.hostechs.com/main/) - _admin/admin_)
   * [Reportr](http://www.reportr.io/) - Your life's personal dashboard. ([Source code](https://github.com/Reportr/dashboard))
+
 
 ## Music Streaming
 
